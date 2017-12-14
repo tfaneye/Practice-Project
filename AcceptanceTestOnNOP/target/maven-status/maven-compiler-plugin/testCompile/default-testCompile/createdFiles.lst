@@ -1,0 +1,6 @@
+com/nopcommerce/demo/hooks/StepHooks.class
+com/nopcommerce/demo/step_definitions/NopAddItemToBasketTestSteps.class
+com/nopcommerce/demo/step_definitions/NopLoginTestSteps.class
+com/nopcommerce/demo/RunnerCukesTest.class
+com/nopcommerce/demo/step_definitions/NopSearchItemTestSteps.class
+com/nopcommerce/demo/step_definitions/NopRegisterTestSteps.class

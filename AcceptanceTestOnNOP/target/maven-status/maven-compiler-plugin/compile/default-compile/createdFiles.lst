@@ -1,0 +1,13 @@
+com/nopcommerce/demo/pages/LoginPage.class
+com/nopcommerce/demo/pages/RegisterPage.class
+com/nopcommerce/demo/pages/HomePage.class
+com/nopcommerce/demo/pages/ShoppingCartPage.class
+com/nopcommerce/demo/pages/BasePage.class
+com/nopcommerce/demo/pages/SearchedItemPage.class
+com/nopcommerce/demo/pages/MyNopPage.class
+com/nopcommerce/demo/support/WorldHelper.class
+com/nopcommerce/demo/test_browsers/SharedBrowsers.class
+com/nopcommerce/demo/test_browsers/BrowserPaths.class
+com/nopcommerce/demo/utils/Screenshot.class
+com/nopcommerce/demo/database/DatabaseManager.class
+com/nopcommerce/demo/pages/FullItemPage.class

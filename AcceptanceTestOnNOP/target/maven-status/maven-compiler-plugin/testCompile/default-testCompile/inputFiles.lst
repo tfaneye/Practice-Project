@@ -1,0 +1,6 @@
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/test/java/com/nopcommerce/demo/RunnerCukesTest.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/test/java/com/nopcommerce/demo/hooks/StepHooks.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/test/java/com/nopcommerce/demo/step_definitions/NopLoginTestSteps.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/test/java/com/nopcommerce/demo/step_definitions/NopAddItemToBasketTestSteps.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/test/java/com/nopcommerce/demo/step_definitions/NopRegisterTestSteps.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/test/java/com/nopcommerce/demo/step_definitions/NopSearchItemTestSteps.java

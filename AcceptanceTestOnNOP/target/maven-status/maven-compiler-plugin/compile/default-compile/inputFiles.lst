@@ -1,0 +1,13 @@
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/pages/FullItemPage.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/pages/LoginPage.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/pages/RegisterPage.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/database/DatabaseManager.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/pages/MyNopPage.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/support/WorldHelper.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/pages/ShoppingCartPage.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/pages/SearchedItemPage.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/test_browsers/SharedBrowsers.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/pages/BasePage.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/utils/Screenshot.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/pages/HomePage.java
+/home/inet-tech/ProjectRepos/AcceptanceTestOnNOP/src/main/java/com/nopcommerce/demo/test_browsers/BrowserPaths.java
